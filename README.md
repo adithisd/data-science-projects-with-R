@@ -11,7 +11,7 @@ Objectives:
 - Identify the happiest and least happy countries.
 - Explore relationships between happiness and different socioeconomic factors.
 - Analyze correlations between the variables.
-- Visualize the major factors associated with life satisfaction.
+- Visualize the major factors associated with life satisfaction
 
 Dataset:
 This project uses the World Happiness Report 2025 dataset, which provides country-level life satisfaction scores and their contributing factors.
