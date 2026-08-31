@@ -176,7 +176,7 @@ Limitations:
 -The relative contribution measure is a descriptive ratio and should not be interpreted as a causal or statistical contribution.
 -The analysis focuses on a selected year.
 -The interpretation of the corruption-related variable depends on its definition in the original dataset.
--Other factors that may influence life satisfaction are not included in the analysis.
+-Other factors that may influence life satisfaction are not included in the analysis
 
 
 
